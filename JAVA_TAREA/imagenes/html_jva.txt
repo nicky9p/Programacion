@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAVA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="menu container">
+            <a href="#" class="logo"><img  src="logo.png" alt=""></a>
+            <input type="checkbox" id="menu"/>
+            <label for="menu">
+                <img src="Menu_icon_2_icon-icons.com_71856.png" class="menu.icon"
+                width="50"  height="50"    alt="">
+            </label>
+            <nav class="navbar">
+            <ul>
+                <li><a href="#">INICIO</a></li>
+                <li><a href="#">SOBRE NOSOTROS</a></li>
+                <li><a href="#">CONTACTO</a></li>
+            </ul>
+            </nav>
+            <div class="redes-1">
+                <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" class="rrss-circle">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" width="40" alt="">
+               
+                <a href="https://mail.google.com/mail/u/3/?ogbl#inbox" target="_blank" rel="noreferrer" class="rrss-circle">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" width="40" alt="">
+        
+            </div>
+        </div>
+        <div class="header-content container">
+            <div class="header-text">
+                <h1>JAVA</h1>
+               <p>
+                    Esta es una pagina donde encontraras toda la informacion acerca 
+                    de JAVA NETBEANS.
+                </p>
+                <a href="#" class="btn-1">Más información</a>
+            </div>
+            <div class="header-img">
+                <img src="jva.png" alt="">
+            </div>
+        </div>
+    </header>
+
+    <section class="about">
+
+        <div class="about-content container">
+        
+            <img class="programacion" src="programacion.jpg" alt="">
+
+            <div class="about-img">
+                <img src="x.jpg" alt="">
+            </div>
+           <div class="about-txt">
+            <h2>¿QUE APRENDERAS?</h2>
+            <p>
+                Aprenderas un poco más acerca del 
+                programa Netbeans y como ayuda a la sociedad .
+            </p>
+            <a href="#" class="btn-2">Leer más</a>
+           </div>
+            </div>
+            </section>
+            <section class="information">
+                <div class="information-content container">
+                    <img class="in1" src="laptop.jpg" alt="">
+                    <img class="in2" src="programa.jpg" alt="">
+                    <img class="in3" src="programacion.jpg" alt="">
+                                
+                    <h2>APRENDE A PROGRAMAR</h2>
+                    <p> con estos pasos se te hara mas facil</p>
+                </div>
+
+            </section>
+
+            <main class="contant container">
+                <div class="contant-carrito"></div>
+                <nav></nav>
+        <h1>Cursos Online</h1>
+        <div class="grid">
+            <div class="items">
+                <img src="programa.jpg">
+                <div class="info">
+                    <h3>Diseño Gráfico para Principiantes</h3>
+                    <p> Luis Carvajal</p>
+                    <div class="precio">
+                        <p>$250</p>
+                        <p>$100</p>
+                    </div>
+<button>Agregar al carrito</button>
+                </div>
+            </div>
+            <div class="items">
+                <img src="programacion.jpg">
+                <div class="info">
+                    <h3>Aprende a Programar desde 0</h3>
+                    <p> Carla Zegarra</p>
+                    <div class="precio">
+                        <p>$650</p>
+                        <p>$400</p>
+                    </div>
+<button>Agregar al carrito</button>
+                </div>
+            </div>
+            <div class="items">
+                <img src="laptop.jpg">
+                <div class="info">
+                    <h3>Aprende el diseño de páginas web </h3>
+                    <p> Carolina Velez</p>
+                    <div class="precio">
+                        <p>$450</p>
+                        <p>$150</p>
+                    </div>
+<button>Agregar al carrito</button>
+                </div>
+            </div>
+                    
+    
+        </div>
+        <div class="form-content">
+
+            <h2>Registrate para enterarte de nuestras ultimas noticias</h2>
+            <form>
+                <input class="campo" type="text" name="name" placeholder="Nombre">
+                <input class="campo" type="email" name="email" placeholder="Correo">
+                <input class="btn-2" type="submit" value="Enviar"> 
+            </form>
+        </div>
+    </div>
+            </main>
+
+            <footer class="footer">
+                <div class="container">
+                    <div class="footer-links">
+
+                        <div class="link-img">
+                        <img src="logo.png" alt="">
+                        <div class="redes-2">
+                            <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/640px-WhatsApp_icon.png" 
+                                alt="" width="50" height="50"></a>
+                            <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png"
+                            alt="" width="50" height="50"></a>
+                            <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png"
+                            alt="" width="50" height="50"></a>
+                            </div>
+                    </div>
+                    <div class="link">
+                        <h3> ACERCA DE NOSOTROS </h3>
+                    <ul>
+                        <li><a href="#">Historia</a></li>
+                        <li><a href="#">Blogs</a></li>
+                      
+                    </ul></div>
+                    <div class="link">
+                        <h3> CONTACTANOS </h3>
+                    <ul>
+                        <li><a href="#">Ubicacion</a></li>
+                        <li><a href="#">Numeros</a></li>
+                       
+                    </ul>
+                </div>
+                
+                <div class="link">
+                    <h3> MÁS </h3>
+                <ul>
+                    <li><a href="#">Ayuda</a></li>
+                    <li><a href="#">Servicio al cliente</a></li>
+                    
+                </ul>
+            </div>
+                </div>
+                <div class="footer-copy">
+                    <p>Copyright &copy; 2023. <a href=""> JAVA NETBEANS</a>
+                    | Todos los derechos reservados </p>
+                </div>
+            </footer>
+</body>
+</html>
